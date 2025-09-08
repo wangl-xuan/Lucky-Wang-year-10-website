@@ -3,3 +3,24 @@
     width: 400px;
     height: 250px;
 }
+
+.little-tips{
+    font-size: 10px;
+    color: grey;
+}
+.links{
+    text-align: center;
+}
+a:hover{
+    color: grey;
+    font-size: 20px;
+    text-decoration-style:wavy;
+}
+a:active{
+    color: red;
+    text-decoration-color: blue;
+}
+img:hover{
+    transform: scale(1.1);
+    transition:all 0.3s;
+}
