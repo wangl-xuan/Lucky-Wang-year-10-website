@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 
 .maps{
     width: 400px;
